@@ -49,11 +49,11 @@
             <key code="18" output="_"/>
             <key code="19" output="@"/>
             <key code="20" output="#"/>
-            <key code="21" output="$"/>
+            <key code="21" output="%"/>
             <key code="22" output="?"/>
-            <key code="23" output="%"/>
+            <key code="23" output="-"/>
             <key code="24" output="="/>
-            <key code="25" output="-"/>
+            <key code="25" output=""/>
             <key code="26" output="!"/>
             <key code="27" output="+"/>
             <key code="28" output="—"/>
@@ -67,7 +67,7 @@
             <key code="36" output="&#x000D;"/>
             <key code="37" output="l"/>
             <key code="38" output="j"/>
-            <key code="39" output=""/>
+            <key code="39" output="$"/>
             <key code="40" output="k"/>
             <key code="41" output="/"/>
             <key code="42" output="&#x0022;"/>

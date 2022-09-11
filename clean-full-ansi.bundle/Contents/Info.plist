@@ -24,7 +24,7 @@
 		<key>TICapsLockLanguageSwitchCapable</key>
 		<true/>
 		<key>TISIconIsTemplate</key>
-		<true/>
+		<false/>
 		<key>TISInputSourceID</key>
 		<string>me.mospan.keyboardlayout.clean-full-ansi.minimal-ansi-ru</string>
 		<key>TISIntendedLanguage</key>

@@ -2,7 +2,7 @@
 <!DOCTYPE keyboard SYSTEM "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
 <!--Created by Ukelele version 359 on 2022-08-23 at 14:45 (CEST)-->
 <!--Last edited by Ukelele version 359 on 2022-09-11 at 17:21 (CEST)-->
-<keyboard group="126" id="-4987" name="minimal-ansi-ru" maxout="1">
+<keyboard group="126" id="-20554" name="minimal-ansi-ru" maxout="1">
     <layouts>
         <layout first="0" last="17" mapSet="ANSI" modifiers="Modifiers"/>
         <layout first="18" last="18" mapSet="JIS" modifiers="Modifiers"/>
@@ -52,11 +52,11 @@
             <key code="18" output="_"/>
             <key code="19" output="@"/>
             <key code="20" output="#"/>
-            <key code="21" output="$"/>
+            <key code="21" output="%"/>
             <key code="22" output="?"/>
-            <key code="23" output="%"/>
+            <key code="23" output="-"/>
             <key code="24" output="="/>
-            <key code="25" output="-"/>
+            <key code="25" output=""/>
             <key code="26" output="!"/>
             <key code="27" output="+"/>
             <key code="28" output="—"/>
