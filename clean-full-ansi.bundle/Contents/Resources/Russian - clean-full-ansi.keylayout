@@ -148,13 +148,13 @@
             <key code="8" output="#"/>
             <key code="9" output="%"/>
             <key code="10" output=""/>
-            <key code="11" output=""/>
+            <key code="11" output="~"/>
             <key code="12" output="\"/>
             <key code="13" output="|"/>
             <key code="14" output="/"/>
             <key code="15" output=";"/>
-            <key code="16" output=""/>
-            <key code="17" output=""/>
+            <key code="16" output="»"/>
+            <key code="17" output="«"/>
             <key code="18" output=""/>
             <key code="19" output=""/>
             <key code="20" output=""/>
@@ -182,7 +182,7 @@
             <key code="42" output=""/>
             <key code="43" output="*"/>
             <key code="44" output="="/>
-            <key code="45" output=""/>
+            <key code="45" output="^"/>
             <key code="46" output="&#x0026;"/>
             <key code="47" output="+"/>
             <key code="48" output="&#x0009;"/>
