@@ -2,7 +2,7 @@
 <!DOCTYPE keyboard SYSTEM "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
 <!--Created by Ukelele version 359 on 2022-08-23 at 14:45 (CEST)-->
 <!--Last edited by Ukelele version 359 on 2022-09-10 at 19:50 (CEST)-->
-<keyboard group="126" id="-21590" name="English - clean-full-ansi" maxout="1">
+<keyboard group="126" id="-18632" name="English - clean-full-ansi" maxout="1">
     <layouts>
         <layout first="0" last="17" mapSet="ANSI" modifiers="Modifiers"/>
         <layout first="18" last="18" mapSet="JIS" modifiers="Modifiers"/>
@@ -170,7 +170,7 @@
             <key code="30" output=""/>
             <key code="31" output="&#x0027;"/>
             <key code="32" output="!"/>
-            <key code="33" output=""/>
+            <key code="33" output="^"/>
             <key code="34" output="&#x0022;"/>
             <key code="35" output="`"/>
             <key code="36" output="&#x000D;"/>
@@ -182,7 +182,7 @@
             <key code="42" output=""/>
             <key code="43" output="*"/>
             <key code="44" output="="/>
-            <key code="45" output="^"/>
+            <key code="45" output="$"/>
             <key code="46" output="&#x0026;"/>
             <key code="47" output="+"/>
             <key code="48" output="&#x0009;"/>

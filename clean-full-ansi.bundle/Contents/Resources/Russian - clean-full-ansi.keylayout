@@ -170,7 +170,7 @@
             <key code="30" output=""/>
             <key code="31" output="&#x0027;"/>
             <key code="32" output="!"/>
-            <key code="33" output=""/>
+            <key code="33" output="^"/>
             <key code="34" output="&#x0022;"/>
             <key code="35" output="`"/>
             <key code="36" output="&#x000D;"/>
@@ -182,7 +182,7 @@
             <key code="42" output=""/>
             <key code="43" output="*"/>
             <key code="44" output="="/>
-            <key code="45" output="^"/>
+            <key code="45" output="$"/>
             <key code="46" output="&#x0026;"/>
             <key code="47" output="+"/>
             <key code="48" output="&#x0009;"/>
