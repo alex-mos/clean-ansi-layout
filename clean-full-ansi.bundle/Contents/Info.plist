@@ -8,6 +8,17 @@
 	<string>clean-full-ansi</string>
 	<key>CFBundleVersion</key>
 	<string>1.0</string>
+	<key>KLInfo_English - clean-dh-colemak</key>
+	<dict>
+		<key>TICapsLockLanguageSwitchCapable</key>
+		<false/>
+		<key>TISIconIsTemplate</key>
+		<false/>
+		<key>TISInputSourceID</key>
+		<string>me.mospan.keyboardlayout.clean-full-ansi.english-clean-dh-colemak</string>
+		<key>TISIntendedLanguage</key>
+		<string>en</string>
+	</dict>
 	<key>KLInfo_English - clean-full-ansi</key>
 	<dict>
 		<key>TICapsLockLanguageSwitchCapable</key>
@@ -18,6 +29,17 @@
 		<string>me.mospan.keyboardlayout.clean-full-ansi.english-clean-full-ansi</string>
 		<key>TISIntendedLanguage</key>
 		<string>en</string>
+	</dict>
+	<key>KLInfo_Russian - clean-dh-qwerty</key>
+	<dict>
+		<key>TICapsLockLanguageSwitchCapable</key>
+		<false/>
+		<key>TISIconIsTemplate</key>
+		<false/>
+		<key>TISInputSourceID</key>
+		<string>me.mospan.keyboardlayout.clean-full-ansi.russian-clean-dh-qwerty</string>
+		<key>TISIntendedLanguage</key>
+		<string>ru</string>
 	</dict>
 	<key>KLInfo_Russian - clean-full-ansi</key>
 	<dict>
