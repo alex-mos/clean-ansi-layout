@@ -1,8 +1,8 @@
 #!/bin/bash
 set -ev
 
-# iconutil --convert icns --output clean-full-ansi.bundle/Contents/Resources/English\ -\ clean-full-ansi.icns English.iconset
-# iconutil --convert icns --output clean-full-ansi.bundle/Contents/Resources/Russian\ -\ clean-full-ansi.icns Russian.iconset
+iconutil --convert icns --output mospan-keyboard-layout.bundle/Contents/Resources/English\ -\ mospan-keyboard-layout.icns English.iconset
+iconutil --convert icns --output mospan-keyboard-layout.bundle/Contents/Resources/Russian\ -\ mospan-keyboard-layout.icns Russian.iconset
 
-rm -rf ~/Library/Keyboard\ Layouts/clean-full-ansi.bundle
-cp -R clean-full-ansi.bundle ~/Library/Keyboard\ Layouts/
+rm -rf ~/Library/Keyboard\ Layouts/mospan-keyboard-layout.bundle
+cp -R mospan-keyboard-layout.bundle ~/Library/Keyboard\ Layouts/

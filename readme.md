@@ -1,2 +1,3 @@
-# Clean full ANSI layout
-Набор из латинской и кириллической раскладок для клавиатуры Keychron K10.
+# Mospan keyboard layout
+
+Latin and cyrrilic layouts I use with Moonlander keyboard and Karabiner Elements.
