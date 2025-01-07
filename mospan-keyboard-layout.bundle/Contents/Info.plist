@@ -3,30 +3,30 @@
 <plist version="1.0">
 <dict>
 	<key>CFBundleIdentifier</key>
-	<string>me.mospan.keyboardlayout.clean-full-ansi</string>
+	<string>me.mospan.keyboardlayout.mospan</string>
 	<key>CFBundleName</key>
 	<string>mospan-keyboard-layout</string>
 	<key>CFBundleVersion</key>
 	<string>1.0</string>
-	<key>KLInfo_English - Mospan</key>
+	<key>KLInfo_English — Mospan</key>
 	<dict>
 		<key>TICapsLockLanguageSwitchCapable</key>
 		<false/>
 		<key>TISIconIsTemplate</key>
 		<false/>
 		<key>TISInputSourceID</key>
-		<string>me.mospan.keyboardlayout.clean-full-ansi.english-mospan</string>
+		<string>me.mospan.keyboardlayout.mospan.english—mospan</string>
 		<key>TISIntendedLanguage</key>
 		<string>en</string>
 	</dict>
-	<key>KLInfo_Russian - Mospan</key>
+	<key>KLInfo_Russian — Mospan</key>
 	<dict>
 		<key>TICapsLockLanguageSwitchCapable</key>
 		<false/>
 		<key>TISIconIsTemplate</key>
 		<false/>
 		<key>TISInputSourceID</key>
-		<string>me.mospan.keyboardlayout.clean-full-ansi.russian-mospan</string>
+		<string>me.mospan.keyboardlayout.mospan.russian—mospan</string>
 		<key>TISIntendedLanguage</key>
 		<string>ru</string>
 	</dict>
